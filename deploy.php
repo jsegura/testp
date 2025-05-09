@@ -5,7 +5,7 @@ require 'recipe/laravel.php';
 
 // Config
 
-set('repository', '');
+set('repository', 'git@github.com:jsegura/testp.git');
 
 add('shared_files', []);
 add('shared_dirs', []);
